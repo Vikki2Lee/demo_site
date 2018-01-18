@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>com.vikki</groupId>
-        <artifactId>myproject-dependencies</artifactId>
+        <artifactId>myproject-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
-        <relativePath>../myproject-dependencies</relativePath>
+        <relativePath>../myproject-parent</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
